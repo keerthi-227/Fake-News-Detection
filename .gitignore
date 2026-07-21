@@ -1,0 +1,4 @@
+backend/.env >> .gitignore
+git restore --staged backend/.env
+echo backend/.env
+backend/.env
